@@ -2,4 +2,4 @@
 
 ##Why?
 
-Because I'm just doing what the [Odin Project](http://www.theodinproject.com/) tells me!
+Because I'm just doing what the Odin Project told me to!
